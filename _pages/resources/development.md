@@ -1,6 +1,6 @@
 ---
 title: Development
-permalink: "resources/development"
+permalink: "/resources/development/"
 layout: page
 ---
 

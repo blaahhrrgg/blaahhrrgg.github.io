@@ -1,6 +1,6 @@
 ---
 title: Work Patterns
-permalink: "resources/patterns"
+permalink: "/resources/patterns/"
 layout: page
 ---
 

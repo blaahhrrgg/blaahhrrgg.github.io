@@ -1,6 +1,6 @@
 ---
 title: Papers
-permalink: "resources/papers"
+permalink: "/resources/papers/"
 layout: page
 ---
 
